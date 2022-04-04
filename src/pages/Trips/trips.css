@@ -1,0 +1,11 @@
+.tourpage-heading {
+  text-align: center;
+}
+
+.trips-container {
+  border: 1px solid gainsboro;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 4px;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.18);
+}

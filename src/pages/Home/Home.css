@@ -1,0 +1,21 @@
+.trip {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.trip h1 {
+    margin-bottom: 50px;
+}
+
+.tripStyle {
+  border: 1px solid gainsboro;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 4px;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.18);
+}
+
+.tripStyle a {
+    color: deepskyblue;
+    text-decoration: none;
+}

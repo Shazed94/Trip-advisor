@@ -1,0 +1,60 @@
+{
+  "trips": [
+    {
+      "id": "1",
+      "title": "Trip to Maldives",
+      "duration": "2 days 3 nights",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque quisquam excepturi adipisci. Quas itaque iusto facilis consectetur id saepe aut tenetur, a rerum non rem!",
+      "price": "$250",
+      "location": "asia"
+    },
+    {
+      "id": "2",
+      "title": "Trip to London",
+      "duration": "2 days 3 nights",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque quisquam excepturi adipisci. Quas itaque iusto facilis consectetur id saepe aut tenetur, a rerum non rem!",
+      "price": "$450",
+      "location": "europe"
+    },
+    {
+      "id": "3",
+      "title": "Trip to Bali",
+      "duration": "2 days 3 nights",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque quisquam excepturi adipisci. Quas itaque iusto facilis consectetur id saepe aut tenetur, a rerum non rem!",
+      "price": "$250",
+      "location": "asia"
+    },
+    {
+      "id": "4",
+      "title": "Trip to Rome",
+      "duration": "2 days 3 nights",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque quisquam excepturi adipisci. Quas itaque iusto facilis consectetur id saepe aut tenetur, a rerum non rem!",
+      "price": "$350",
+      "location": "europe"
+    },
+    {
+      "id": "5",
+      "title": "Trip to Paris",
+      "duration": "2 days 3 nights",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque quisquam excepturi adipisci. Quas itaque iusto facilis consectetur id saepe aut tenetur, a rerum non rem!",
+      "price": "$550",
+      "location": "europe"
+    },
+    {
+      "title": "sdfdsf",
+      "duration": "sdfdsf",
+      "desc": "sdfsdf",
+      "price": "$sdfdsf",
+      "location": "sdfd",
+      "id": "564654"
+    },
+    {
+      "title": "Tour To Saint Martin",
+      "duration": "2 nights 3 days",
+      "desc": "nai",
+      "price": "$6500",
+      "location": "bangladesh",
+      "id": "ym47_ZQ"
+    }
+  ]
+}

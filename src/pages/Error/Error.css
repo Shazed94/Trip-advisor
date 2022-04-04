@@ -1,0 +1,22 @@
+.error-page {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.error-page h1 {
+    font-size: 42px;
+}
+
+.error-page h2 {
+    font-size: 24px;
+}
+
+.error-page button {
+    padding: 15px 25px;
+    border-radius: 4px;
+    color:cornflowerblue;
+    background-color:black;
+    border: 1px solid violet;
+    font-size: 20px;
+    cursor: pointer;
+}

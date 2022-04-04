@@ -1,0 +1,41 @@
+.form-title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.create {
+  color: #555;
+  max-width: 450px;
+  margin: 60px auto;
+}
+
+.create input,
+.create textarea {
+  color: #555;
+  padding: 12px;
+  font-size: 15px;
+  border: 1px solid #999;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.create label span {
+  display: block;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+.create button {
+  display: block;
+  width: 150px;
+  font-size: 22px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+  margin: 20px auto;
+  padding: 15px;
+}
